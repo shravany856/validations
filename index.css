@@ -1,0 +1,44 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200&display=swap');
+*{
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Inter';
+    font-style: normal;
+    margin: 23px;
+    font-family: 'Poppins', sans-serif;
+    justify-items: center;
+}
+
+div h5{
+   
+    margin: 6px;
+    width: 74px;
+    height: 17px;
+}
+#email{
+   
+    width: 360px;
+    height: 28px;
+    border-radius: 5px;
+   
+}
+.password{
+    margin-top: 60px;
+}
+#password{
+    width: 360px;
+    height: 28px;
+    border-radius: 5px;
+}
+button{
+    margin-top: 60px;
+    position: absolute;
+    width: 128px;
+    height: 27px;
+    background: none;
+    border: 1px solid #000000;
+    border-radius: 5px;
+}
